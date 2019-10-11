@@ -1,8 +1,8 @@
 class Bot:
-    token = '123456789:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-    groupId = -1001234567890
+    token = '946438606:AAFEI_QUW6qTGjQeI1oNxbGiPIID18sXuM8'
+    groupId = -1001342738063
     useStaffGroup = True
-    staffGroupId = -1001234567890
+    staffGroupId = -1001296501406
     language = "en"
 
 
